@@ -1,0 +1,8533 @@
+/* screen - copacombrasil */
+
+.copacombrasil {
+  background-color: transparent;
+  border: 1px none;
+  height: 100vh;
+  margin: 0px;
+  min-height: 2407px;
+  min-width: 1284px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.copacombrasil .referencia2-Bbx0mS {
+  background-color: #d4f79c;
+  border: 1px none;
+  height: 930px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2861px;
+  width: 100%;
+}
+
+.copacombrasil .jogos2-Bbx0mS {
+  background: linear-gradient(180deg, rgba(128.0000075697899, 0, 0, 0.75) 6.597137451171875%, rgb(128.0000075697899, 0, 0) 53.992968797683716%);
+  background-color: transparent;
+  border: 1px none;
+  height: 660px;
+  left: -0.23%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1747px;
+  width: 100%;
+}
+
+.copacombrasil .jogadores2-Bbx0mS::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.copacombrasil .jogadores2-Bbx0mS {
+  background: linear-gradient(180deg, rgba(29.462266266345978, 175.3125, 114.0553942322731, 0.6000000238418579) 0%, rgb(29.462266266345978, 175.3125, 114.0553942322731) 49.826303124427795%, rgba(128.0000075697899, 0, 0, 0.75) 100%);
+  background-color: transparent;
+  border: 1px none;
+  height: 1096px;
+  left: -0.23%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 651px;
+  width: 100%;
+}
+
+.copacombrasil .campo-HCySxx {
+  background-color: transparent;
+  height: 570px;
+  left: 147px;
+  position: absolute;
+  top: 393px;
+  width: 1014px;
+}
+
+.copacombrasil .frame-1-HCySxx {
+  background-color: transparent;
+  height: 406px;
+  left: calc(50.00% - 341px);
+  position: absolute;
+  top: 448px;
+  width: 646px;
+}
+
+.copacombrasil .placas-HCySxx {
+  background-color: transparent;
+  height: 220px;
+  left: 133px;
+  position: absolute;
+  top: 360px;
+  width: 374px;
+}
+
+.copacombrasil .bandeira-HCySxx {
+  background-color: transparent;
+  height: 331px;
+  left: calc(50.00% + 377px);
+  position: absolute;
+  top: calc(50.00% - 126px);
+  width: 125px;
+}
+
+.copacombrasil .vuvuzelas-HCySxx {
+  background-color: transparent;
+  height: 131px;
+  left: 1157px;
+  position: absolute;
+  top: 687px;
+  width: 136px;
+}
+
+.copacombrasil .vuvuzelas-R5Borq {
+  background-color: transparent;
+  height: 131px;
+  left: -3px;
+  position: absolute;
+  top: 649px;
+  width: 136px;
+}
+
+.copacombrasil .jogadores-HCySxx {
+  background-color: transparent;
+  height: 178px;
+  left: 29px;
+  position: absolute;
+  top: 35px;
+  width: 8579px;
+}
+
+.copacombrasil .jogador-1-xoDQMA {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 4290px);
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 268px;
+}
+
+.copacombrasil .fundo-tjDoir {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 134px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 266px;
+}
+
+.copacombrasil .imagem-tjDoir {
+  background-color: transparent;
+  height: 115px;
+  left: calc(50.00% - 107px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: 121px;
+}
+
+.copacombrasil .alisson-tjDoir {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 103px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: calc(50.00% - 76px);
+  width: 161px;
+}
+
+.copacombrasil .check-tjDoir {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% + 52px);
+  position: absolute;
+  top: calc(50.00% + 15px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-JS6rY1 {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% - 26px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 26px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-JS6rY1 {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: calc(50.00% - 23px);
+  position: absolute;
+  top: calc(50.00% - 23px);
+  width: 47px;
+}
+
+.copacombrasil .time-tjDoir {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: calc(50.00% - 84px);
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-FrxPr3 {
+  background-color: transparent;
+  height: 96px;
+  left: calc(50.00% - 24px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 48px);
+  width: 46px;
+}
+
+.copacombrasil .liverpool_fc-1-FrxPr3 {
+  background-color: transparent;
+  height: 43px;
+  left: calc(50.00% - 17px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 39px);
+  width: 32px;
+}
+
+.copacombrasil .gol-FrxPr3 {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 18px);
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 11px);
+  width: auto;
+}
+
+.copacombrasil .jogador-2-xoDQMA {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 4013px);
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 268px;
+}
+
+.copacombrasil .fundo-BFfvgo {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 134px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 266px;
+}
+
+.copacombrasil .imagem-BFfvgo {
+  background-color: transparent;
+  height: 115px;
+  left: calc(50.00% - 107px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: 121px;
+}
+
+.copacombrasil .ederson-BFfvgo {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 107px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: calc(50.00% - 81px);
+  width: 161px;
+}
+
+.copacombrasil .check-BFfvgo {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% + 52px);
+  position: absolute;
+  top: calc(50.00% + 15px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-oPS29M {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% - 26px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 26px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-oPS29M {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: calc(50.00% - 23px);
+  position: absolute;
+  top: calc(50.00% - 23px);
+  width: 47px;
+}
+
+.copacombrasil .time-BFfvgo {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: calc(50.00% - 84px);
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-qERsq3 {
+  background-color: transparent;
+  height: 96px;
+  left: calc(50.00% - 24px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 48px);
+  width: 46px;
+}
+
+.copacombrasil .manchester-city-qERsq3 {
+  background-color: transparent;
+  height: 33px;
+  left: calc(50.00% - 18px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 39px);
+  width: 33px;
+}
+
+.copacombrasil .gol-qERsq3 {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 18px);
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 11px);
+  width: auto;
+}
+
+.copacombrasil .jogador-3-xoDQMA {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 3736px);
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 268px;
+}
+
+.copacombrasil .fundo-nNsH3x {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 134px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 266px;
+}
+
+.copacombrasil .imagem-nNsH3x {
+  background-color: transparent;
+  height: 115px;
+  left: calc(50.00% - 107px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: 121px;
+}
+
+.copacombrasil .weverton-nNsH3x {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 109px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: calc(50.00% - 79px);
+  width: 161px;
+}
+
+.copacombrasil .check-nNsH3x {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% + 52px);
+  position: absolute;
+  top: calc(50.00% + 15px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-SrC3HR {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% - 26px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 26px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-SrC3HR {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: calc(50.00% - 23px);
+  position: absolute;
+  top: calc(50.00% - 23px);
+  width: 47px;
+}
+
+.copacombrasil .time-nNsH3x {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: calc(50.00% - 84px);
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-2fvK30 {
+  background-color: transparent;
+  height: 96px;
+  left: calc(50.00% - 24px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 48px);
+  width: 46px;
+}
+
+.copacombrasil .gol-2fvK30 {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 18px);
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 11px);
+  width: auto;
+}
+
+.copacombrasil .palmeiras-logo-escudo-1-1-2fvK30 {
+  background-color: transparent;
+  height: 32px;
+  left: calc(50.00% - 17px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 38px);
+  width: 32px;
+}
+
+.copacombrasil .jogador-4-xoDQMA {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 3458px);
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 268px;
+}
+
+.copacombrasil .fundo-Zvxnbi {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 134px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 266px;
+}
+
+.copacombrasil .imagem-Zvxnbi {
+  background-color: transparent;
+  height: 115px;
+  left: calc(50.00% - 107px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: 121px;
+}
+
+.copacombrasil .thiago-s-Zvxnbi {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 107px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: calc(50.00% - 81px);
+  width: 161px;
+}
+
+.copacombrasil .check-Zvxnbi {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% + 52px);
+  position: absolute;
+  top: calc(50.00% + 15px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-hd9x4y {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: calc(50.00% - 26px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 26px);
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-hd9x4y {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: calc(50.00% - 23px);
+  position: absolute;
+  top: calc(50.00% - 23px);
+  width: 47px;
+}
+
+.copacombrasil .time-Zvxnbi {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: calc(50.00% + 57px);
+  position: absolute;
+  top: calc(50.00% - 84px);
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-Mqe6LO {
+  background-color: transparent;
+  height: 96px;
+  left: calc(50.00% - 24px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 48px);
+  width: 46px;
+}
+
+.copacombrasil .zag-Mqe6LO {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 18px);
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 11px);
+  width: auto;
+}
+
+.copacombrasil .chelsea-Mqe6LO {
+  background-color: transparent;
+  height: 31px;
+  left: calc(50.00% - 17px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 37px);
+  width: 31px;
+}
+
+.copacombrasil .jogador-5-xoDQMA {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 3181px);
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 268px;
+}
+
+.copacombrasil .fundo-zB84kV {
+  background-color: transparent;
+  height: 178px;
+  left: calc(50.00% - 134px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 89px);
+  width: 266px;
+}
+
+.copacombrasil .imagem-zB84kV {
+  background-color: transparent;
+  height: 115px;
+  left: calc(50.00% - 107px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 42px);
+  width: 121px;
+}
+
+.copacombrasil .marquinhos-zB84kV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 21.7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 112px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 6.36533260345459px 6.36533260345459px #00000040;
+  top: calc(50.00% - 76px);
+  width: 168px;
+}
+
+.copacombrasil .check-zB84kV {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-TGvazQ {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-TGvazQ {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-zB84kV {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-ZXn4Z2 {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .zag-ZXn4Z2 {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .x1024px-paris_-saint-germain_fc-1-ZXn4Z2 {
+  background-color: transparent;
+  height: 35px;
+  left: 5px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 35px;
+}
+
+.copacombrasil .jogador-6-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 16.15%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-qkJxce {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-qkJxce {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .e-militao-qkJxce {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 23.1px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15.77%;
+  left: 9.97%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 6.164303779602051px 6.164303779602051px #00000040;
+  top: 5.42%;
+  width: 65.37%;
+}
+
+.copacombrasil .check-qkJxce {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-5WlM5L {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-5WlM5L {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-qkJxce {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-Z2QiGT {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .real-madrid-logo-escudo-1-1-Z2QiGT {
+  background-color: transparent;
+  height: 47.65%;
+  left: 14.23%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 10.89%;
+  width: 68.72%;
+}
+
+.copacombrasil .zag-Z2QiGT {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .jogador-7-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 19.38%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-uWaxg1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-uWaxg1 {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .danilo-uWaxg1 {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-uWaxg1 {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-98ODly {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-98ODly {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-uWaxg1 {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-d07BNQ {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .lat-d07BNQ {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .juventus_fc_2017_logo-1-1-d07BNQ {
+  background-color: transparent;
+  height: 50px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 25px;
+}
+
+.copacombrasil .jogador-8-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 22.61%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-CO59za {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-CO59za {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .alexsandro-CO59za {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 23.5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31.53%;
+  left: 7.17%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 6.26095724105835px 6.26095724105835px #00000040;
+  top: 6.03%;
+  width: 65.36%;
+}
+
+.copacombrasil .check-CO59za {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-cHpzyd {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-cHpzyd {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-CO59za {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-TWdR7x {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .lat-TWdR7x {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .juventus_fc_2017_logo-1-1-TWdR7x {
+  background-color: transparent;
+  height: 50px;
+  left: 9px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 25px;
+}
+
+.copacombrasil .jogador-9-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 25.84%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-x9TiAy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-x9TiAy {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .a-telles-x9TiAy {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-x9TiAy {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-wNwHP9 {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-wNwHP9 {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-x9TiAy {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-XSCSq4 {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .lat-XSCSq4 {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .sevilla-fc-logo-png-transparent-1-XSCSq4 {
+  background-color: transparent;
+  height: 39px;
+  left: 4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 39px;
+}
+
+.copacombrasil .jogador-10-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 29.07%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-qAp6ex {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-qAp6ex {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .fred-qAp6ex {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-qAp6ex {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-R1jpgG {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-R1jpgG {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-qAp6ex {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-9926lD {
+  background-color: transparent;
+  height: 96px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .vol-9926lD {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .manchester-unitec-9926lD {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 42px;
+}
+
+.copacombrasil .jogador-11-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 32.30%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-Xmpdsw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-Xmpdsw {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .casemiro-Xmpdsw {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-Xmpdsw {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-wIQ2H0 {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-wIQ2H0 {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-Xmpdsw {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-hDMwPk {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .vol-hDMwPk {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .manchester-unitec-hDMwPk {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 42px;
+}
+
+.copacombrasil .jogador-12-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 35.53%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-O9oBVk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-O9oBVk {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .fabinho-O9oBVk {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-O9oBVk {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-MxTWAy {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-MxTWAy {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-O9oBVk {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-JHbACx {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .vol-JHbACx {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .liverpool_fc-1-JHbACx {
+  background-color: transparent;
+  height: 43px;
+  left: 7px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 32px;
+}
+
+.copacombrasil .jogador-13-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 38.76%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-pg4Sys {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-pg4Sys {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .bruno-g-pg4Sys {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-pg4Sys {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-TRUeKq {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-TRUeKq {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-pg4Sys {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-pHFviq {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .vol-pHFviq {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .newcastle_-united_-logo-1-pHFviq {
+  background-color: transparent;
+  height: 34px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 34px;
+}
+
+.copacombrasil .jogador-14-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 41.99%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-AMp24z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-AMp24z {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .paquet-AMp24z {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-AMp24z {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-QV3Xj2 {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-QV3Xj2 {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-AMp24z {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-D5Ildi {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .mei-D5Ildi {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .west-ham-united-1-1-D5Ildi {
+  background-color: transparent;
+  height: 34px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 34px;
+}
+
+.copacombrasil .jogador-15-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 45.22%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-HUPFjQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-HUPFjQ {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .everton-r-HUPFjQ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 26.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18.02%;
+  left: 7.18%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.088267803192139px 7.088267803192139px #00000040;
+  top: 4.82%;
+  width: 68.91%;
+}
+
+.copacombrasil .check-HUPFjQ {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-Cr4f5l {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-Cr4f5l {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-HUPFjQ {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-uTGHVC {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .mei-uTGHVC {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .flamengo_braz_logo-1-uTGHVC {
+  background-color: transparent;
+  height: 40px;
+  left: 7px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 32px;
+}
+
+.copacombrasil .jogador-16-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 48.45%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-pFhDxH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-pFhDxH {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .neymar-pFhDxH {
+  background-color: transparent;
+  height: 36.04%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-pFhDxH {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-6eTIeU {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-6eTIeU {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-pFhDxH {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-YF5ljV {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .x1024px-paris_-saint-germain_fc-1-YF5ljV {
+  background-color: transparent;
+  height: 35px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 35px;
+}
+
+.copacombrasil .ata-YF5ljV {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .jogador-17-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 51.68%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-DnxY6E {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-DnxY6E {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .vini-jr-DnxY6E {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-DnxY6E {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-Ixr5Jp {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-Ixr5Jp {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-DnxY6E {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-xnhL1w {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-xnhL1w {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .real-madrid-logo-escudo-1-1-xnhL1w {
+  background-color: transparent;
+  height: 47.65%;
+  left: 11.99%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 8.66%;
+  width: 68.72%;
+}
+
+.copacombrasil .jogador-18-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 54.91%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-AcW8Mx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-AcW8Mx {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .antony-AcW8Mx {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-AcW8Mx {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-LXBfFN {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-LXBfFN {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-AcW8Mx {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-xrYtYT {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-xrYtYT {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .manchester-unitec-xrYtYT {
+  background-color: transparent;
+  height: 42px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 42px;
+}
+
+.copacombrasil .jogador-19-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 58.14%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-v34hNf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-v34hNf {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .raphinha-v34hNf {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-v34hNf {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-xxEXUV {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-xxEXUV {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-v34hNf {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-zGN2RE {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-zGN2RE {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .barcelona-1-1-zGN2RE {
+  background-color: transparent;
+  height: 30px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}
+
+.copacombrasil .jogador-20-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 61.37%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-SXvDbx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-SXvDbx {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .g-jesus-SXvDbx {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-SXvDbx {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-3ygdTg {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-3ygdTg {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-SXvDbx {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 192px;
+  position: absolute;
+  top: 4px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-qGvOcM {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-qGvOcM {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 5px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .arsenal_fc-1-qGvOcM {
+  background-color: transparent;
+  height: 39px;
+  left: 5px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 33px;
+}
+
+.copacombrasil .jogador-21-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 64.60%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-bCJKoI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-bCJKoI {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .richarlyson-bCJKoI {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 20.3px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13.51%;
+  left: 9.97%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 5.983734607696533px 5.983734607696533px #00000040;
+  top: 7.83%;
+  width: 65.77%;
+}
+
+.copacombrasil .check-bCJKoI {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-smMG6u {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-smMG6u {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-bCJKoI {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-XJpXrT {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-XJpXrT {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .tottenham_-hotspur-1-XJpXrT {
+  background-color: transparent;
+  height: 49px;
+  left: 11px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.copacombrasil .jogador-22-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 67.83%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-0v41ux {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-0v41ux {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .rodrigo-0v41ux {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-0v41ux {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-1uOlbZ {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-1uOlbZ {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-0v41ux {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-s5kRxU {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-s5kRxU {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .real-madrid-logo-escudo-1-1-s5kRxU {
+  background-color: transparent;
+  height: 47.65%;
+  left: 14.23%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 9.77%;
+  width: 68.72%;
+}
+
+.copacombrasil .jogador-23-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 71.06%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-So7DHg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-So7DHg {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .firmino-So7DHg {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-So7DHg {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-0VX2Xo {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-0VX2Xo {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-So7DHg {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-AGPbqK {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-AGPbqK {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .liverpool_fc-1-AGPbqK {
+  background-color: transparent;
+  height: 43px;
+  left: 7px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 32px;
+}
+
+.copacombrasil .jogador-24-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 74.29%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-Qn84Xt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-Qn84Xt {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .pedro-Qn84Xt {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-Qn84Xt {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-X1iw00 {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-X1iw00 {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-Qn84Xt {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-xVNq4x {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-xVNq4x {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .flamengo_braz_logo-1-xVNq4x {
+  background-color: transparent;
+  height: 40px;
+  left: 7px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 32px;
+}
+
+.copacombrasil .jogador-25-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 77.52%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-wc86iS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-wc86iS {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .gabriel-b-wc86iS {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 25.7px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17.45%;
+  left: 7.97%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.82%;
+  width: 71.75%;
+}
+
+.copacombrasil .check-wc86iS {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-tKhXQ0 {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-tKhXQ0 {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-wc86iS {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-iSxx8D {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .ata-iSxx8D {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .flamengo_braz_logo-1-iSxx8D {
+  background-color: transparent;
+  height: 40px;
+  left: 7px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 32px;
+}
+
+.copacombrasil .jogador-26-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 80.75%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-mx5Ii5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-mx5Ii5 {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .coutinho-mx5Ii5 {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-mx5Ii5 {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-IyN6bj {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-IyN6bj {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-mx5Ii5 {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-0efVWT {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .mei-0efVWT {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .aston-villa-0efVWT {
+  background-color: transparent;
+  height: 42px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}
+
+.copacombrasil .jogador-27-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 83.98%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-9iKeRq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-9iKeRq {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .bremer-9iKeRq {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-9iKeRq {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-CKEiV8 {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-CKEiV8 {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-9iKeRq {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-fboXeb {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .zag-fboXeb {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .juventus_fc_2017_logo-1-1-fboXeb {
+  background-color: transparent;
+  height: 50px;
+  left: 9px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 25px;
+}
+
+.copacombrasil .jogador-28-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 87.21%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-bxXxjB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-bxXxjB {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .ibanez-bxXxjB {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-bxXxjB {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-E2BbAW {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-E2BbAW {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-bxXxjB {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-cIGZ6n {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .zag-cIGZ6n {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .as_-roma_logo_2017-1-cIGZ6n {
+  background-color: transparent;
+  height: 37px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 29px;
+}
+
+.copacombrasil .jogador-29-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 90.44%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-8D0xWe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-8D0xWe {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .r-lodi-8D0xWe {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-8D0xWe {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-1AcBxH {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-1AcBxH {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-8D0xWe {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-0DkSZO {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .lat-0DkSZO {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .langfr-1024px-logo_-0DkSZO {
+  background-color: transparent;
+  height: 51px;
+  left: 11px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.copacombrasil .jogador-30-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 93.67%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-XOJsCG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-XOJsCG {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .dani-alves-XOJsCG {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 24.4px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16.33%;
+  left: 9.17%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 6.499293327331543px 6.499293327331543px #00000040;
+  top: 5.42%;
+  width: 61.39%;
+}
+
+.copacombrasil .check-XOJsCG {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-yUpS3e {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-yUpS3e {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-XOJsCG {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-G6Unnl {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .lat-G6Unnl {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .pumas_unam-1-G6Unnl {
+  background-color: transparent;
+  height: 32px;
+  left: 6px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 34px;
+}
+
+.copacombrasil .jogador-31-xoDQMA {
+  background-color: transparent;
+  height: 100%;
+  left: 96.89%;
+  position: absolute;
+  top: 0px;
+  width: 3.13%;
+}
+
+.copacombrasil .fundo-6P0tGx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 99.25%;
+}
+
+.copacombrasil .imagem-6P0tGx {
+  background-color: transparent;
+  height: 64.79%;
+  left: 10.09%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26.27%;
+  width: 45.13%;
+}
+
+.copacombrasil .emerson-6P0tGx {
+  background-color: transparent;
+  height: 18.02%;
+  left: 10.09%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 7.216747283935547px 7.216747283935547px #00000040;
+  top: 4.24%;
+  width: 60.02%;
+}
+
+.copacombrasil .check-6P0tGx {
+  background-color: transparent;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 187px;
+  position: absolute;
+  top: 104px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-1-bhOuAc {
+  background-color: var(--white);
+  border: 0.7525500059127808px none;
+  border-radius: 26.34px;
+  box-shadow: 0px 6.020400047302246px 6.020400047302246px #00000040;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.copacombrasil .ellipse-2-bhOuAc {
+  background-color: transparent;
+  border: 1.5051000118255615px solid;
+  border-color: var(--chateau-green);
+  border-radius: 23.33px;
+  height: 47px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.copacombrasil .time-6P0tGx {
+  background-color: transparent;
+  box-shadow: 0px 6.575036525726318px 6.575036525726318px #00000040;
+  height: 96px;
+  left: 191px;
+  position: absolute;
+  top: 5px;
+  width: 48px;
+}
+
+.copacombrasil .rectangle-2-6oFnWy {
+  background-color: transparent;
+  height: 96px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 46px;
+}
+
+.copacombrasil .lat-6oFnWy {
+  -webkit-text-stroke: 1.3244878053665161px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 6px;
+  letter-spacing: 2.08px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.copacombrasil .tottenham_-hotspur-1-6oFnWy {
+  background-color: transparent;
+  height: 49px;
+  left: 11px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.copacombrasil .refletor-b-HCySxx {
+  background-color: transparent;
+  height: 110px;
+  left: -14px;
+  position: absolute;
+  top: 315px;
+  width: 114px;
+}
+
+.copacombrasil .refletor-a-HCySxx {
+  background-color: transparent;
+  height: 104px;
+  left: 1184px;
+  position: absolute;
+  top: 282px;
+  width: 109px;
+}
+
+.copacombrasil .capa2-Bbx0mS {
+  background: linear-gradient(180deg, rgb(255, 209.00000274181366, 0) 55.034637451171875%, rgba(29.000000171363354, 175.00000476837158, 114.0000008046627, 0.6499999761581421) 100%);
+  background-color: transparent;
+  border: 1px none;
+  height: 651px;
+  left: -0.23%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: calc(50.00% - 1204px);
+  width: 100%;
+}
+
+.copacombrasil .background-braso-iUJbEz {
+  background: linear-gradient(180deg, rgb(29.000000171363354, 175.00000476837158, 114.0000008046627) 58.33333134651184%, rgba(235.4783195257187, 255, 10.97920686006546, 0) 100%);
+  background-color: transparent;
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 260.5px/257.84px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 516px;
+  left: calc(50.00% + 52px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 214px);
+  width: 521px;
+}
+
+.copacombrasil .texto-brasil-iUJbEz {
+  background-color: transparent;
+  height: 117px;
+  left: calc(50.00% - 558px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% + 170px);
+  width: 565px;
+}
+
+.copacombrasil .braso-iUJbEz {
+  background-color: transparent;
+  height: 478px;
+  left: calc(50.00% + 103px);
+  position: absolute;
+  top: calc(50.00% - 182px);
+  width: 418px;
+}
+
+.copacombrasil .estrelas-iUJbEz {
+  background-color: transparent;
+  height: 186px;
+  left: 758px;
+  position: absolute;
+  top: 23px;
+  width: 394px;
+}
+
+.copacombrasil .boto-1-iUJbEz {
+  background-color: transparent;
+  height: 50px;
+  left: calc(50.00% - 552px);
+  position: absolute;
+  top: calc(50.00% + 78px);
+  width: 206px;
+}
+
+.copacombrasil .rectangle-3-7LxKRN {
+  background-color: #1daf72;
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 54px;
+  left: calc(50.00% - 105px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 27px);
+  width: 208px;
+}
+
+.copacombrasil .jogadores-7LxKRN {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 27.3px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 77px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: calc(50.00% - 23px);
+  width: auto;
+}
+
+.copacombrasil .taa-iUJbEz {
+  background-color: transparent;
+  height: 309px;
+  left: calc(50.00% + 471px);
+  position: absolute;
+  top: calc(50.00% + 16px);
+  width: 144px;
+}
+
+.copacombrasil .embarque-em-uma-jorn-iUJbEz {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 556px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 86px);
+  width: 519px;
+}
+
+.copacombrasil .boto-2-iUJbEz {
+  background-color: transparent;
+  height: 50px;
+  left: calc(50.00% - 328px);
+  position: absolute;
+  top: calc(50.00% + 78px);
+  width: 206px;
+}
+
+.copacombrasil .rectangle-3-osb1oW {
+  background-color: #1daf72;
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 54px;
+  left: calc(50.00% - 105px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 27px);
+  width: 208px;
+}
+
+.copacombrasil .jogos-osb1oW {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 27.3px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 44px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: calc(50.00% - 23px);
+  width: auto;
+}
+
+.copacombrasil .presente-iUJbEz {
+  background-color: transparent;
+  height: 185px;
+  left: calc(50.00% + 61px);
+  position: absolute;
+  top: calc(50.00% + 134px);
+  width: 162px;
+}
+
+.copacombrasil .luzes-iUJbEz {
+  background-color: transparent;
+  height: 285px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 765px;
+}
+
+.copacombrasil .banderola-iUJbEz {
+  background-color: transparent;
+  height: 84px;
+  left: calc(50.00% - 557px);
+  position: absolute;
+  top: calc(50.00% - 300px);
+  width: 511px;
+}
+
+.copacombrasil .simbolo-brasil-1-5w1rJ7 {
+  background-color: transparent;
+  height: 52px;
+  left: calc(50.00% - 255px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 28px);
+  width: 52px;
+}
+
+.copacombrasil .simbolo-brasil-2-5w1rJ7 {
+  background-color: transparent;
+  height: 52px;
+  left: calc(50.00% + 202px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 26px);
+  width: 52px;
+}
+
+.copacombrasil .nome-copa-com-brasil-5w1rJ7 {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  color: #009e3a;
+  font-family: var(--font-family-baloo_da_2);
+  font-size: 50.1px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 172px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% - 43px);
+  width: auto;
+}
+/* screen - copacombrasilmobile2-all-breakpoints */
+
+.copacombrasilmobile2-all-breakpoints {
+  background-color: transparent;
+  border: 1px none;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1554px;
+  min-width: 320px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogos-mobile2-uXIObv {
+  background: linear-gradient(180deg, rgba(128.0000075697899, 0, 0, 0.75) 11.45833358168602%, rgb(128.0000075697899, 0, 0) 58.33333134651184%);
+  background-color: transparent;
+  border: 1px none;
+  height: 518px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1036px;
+  width: 100%;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogadores-mobile2-uXIObv {
+  background: linear-gradient(180deg, rgba(28.9999982714653, 175.00000476837158, 113.9999932050705, 0.6000000238418579) 6.77083358168602%, rgb(29.000000171363354, 175.00000476837158, 114.0000008046627) 46.35416567325592%, rgba(128.0000075697899, 0, 0, 0.75) 100%);
+  background-color: transparent;
+  border: 1px none;
+  height: 518px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 518px;
+  width: 100%;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogadores-mobile-9bzmrf {
+  background-color: transparent;
+  height: 58px;
+  left: 12px;
+  position: absolute;
+  top: 33px;
+  width: 2785px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-1-DUyJfS {
+  background-color: transparent;
+  height: 58px;
+  left: calc(50.00% - 1392px);
+  position: absolute;
+  top: calc(50.00% - 29px);
+  width: 88px;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-eoTUsn {
+  background-color: transparent;
+  height: 126px;
+  left: calc(50.00% - 56px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 60px);
+  width: 133px;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-eoTUsn {
+  background-color: transparent;
+  height: 41px;
+  left: calc(50.00% - 37px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 14px);
+  width: 43px;
+}
+
+.copacombrasilmobile2-all-breakpoints .alisson-eoTUsn {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 34px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: calc(50.00% - 25px);
+  width: 52px;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-eoTUsn {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: calc(50.00% + 16px);
+  position: absolute;
+  top: calc(50.00% + 5px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-kxb7pW {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: calc(50.00% - 9px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 9px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-kxb7pW {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: calc(50.00% - 8px);
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-eoTUsn {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: calc(50.00% + 18px);
+  position: absolute;
+  top: calc(50.00% - 27px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-Jo2c3I {
+  background-color: transparent;
+  height: 31px;
+  left: calc(50.00% - 8px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 16px);
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .liverpool_fc-1-Jo2c3I {
+  background-color: transparent;
+  height: 14px;
+  left: calc(50.00% - 6px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 13px);
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .gol-Jo2c3I {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 7px);
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 4px);
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-2-DUyJfS {
+  background-color: transparent;
+  height: 58px;
+  left: calc(50.00% - 1303px);
+  position: absolute;
+  top: calc(50.00% - 29px);
+  width: 88px;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-N3VlUw {
+  background-color: transparent;
+  height: 126px;
+  left: calc(50.00% - 78px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 60px);
+  width: 155px;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-N3VlUw {
+  background-color: transparent;
+  height: 40px;
+  left: calc(50.00% - 37px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 14px);
+  width: 42px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ederson-N3VlUw {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 35px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: calc(50.00% - 26px);
+  width: 52px;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-N3VlUw {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: calc(50.00% + 16px);
+  position: absolute;
+  top: calc(50.00% + 5px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-apiCrG {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: calc(50.00% - 9px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 9px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-apiCrG {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: calc(50.00% - 8px);
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-N3VlUw {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: calc(50.00% + 18px);
+  position: absolute;
+  top: calc(50.00% - 27px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-lvtgj6 {
+  background-color: transparent;
+  height: 31px;
+  left: calc(50.00% - 8px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 16px);
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .manchester-city-lvtgj6 {
+  background-color: transparent;
+  height: 11px;
+  left: calc(50.00% - 7px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 13px);
+  width: 11px;
+}
+
+.copacombrasilmobile2-all-breakpoints .gol-lvtgj6 {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 7px);
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 4px);
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-3-DUyJfS {
+  background-color: transparent;
+  height: 58px;
+  left: calc(50.00% - 1213px);
+  position: absolute;
+  top: calc(50.00% - 29px);
+  width: 88px;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-WV6SJg {
+  background-color: transparent;
+  height: 126px;
+  left: calc(50.00% - 78px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 60px);
+  width: 155px;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-WV6SJg {
+  background-color: transparent;
+  height: 40px;
+  left: calc(50.00% - 37px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 14px);
+  width: 42px;
+}
+
+.copacombrasilmobile2-all-breakpoints .weverton-WV6SJg {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 36px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: calc(50.00% - 26px);
+  width: 52px;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-WV6SJg {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: calc(50.00% + 16px);
+  position: absolute;
+  top: calc(50.00% + 5px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-lYCiQX {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: calc(50.00% - 9px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 9px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-lYCiQX {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: calc(50.00% - 8px);
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-WV6SJg {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: calc(50.00% + 18px);
+  position: absolute;
+  top: calc(50.00% - 27px);
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-ItkVFU {
+  background-color: transparent;
+  height: 31px;
+  left: calc(50.00% - 8px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 16px);
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .gol-ItkVFU {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 7px);
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 4px);
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .palmeiras-logo-escudo-1-1-ItkVFU {
+  background-color: transparent;
+  height: 10px;
+  left: calc(50.00% - 6px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 12px);
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-4-DUyJfS {
+  background-color: transparent;
+  height: 58px;
+  left: calc(50.00% - 1123px);
+  position: absolute;
+  top: calc(50.00% - 29px);
+  width: 88px;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-axTIxI {
+  background-color: transparent;
+  height: 126px;
+  left: calc(50.00% - 78px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 60px);
+  width: 72px;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-axTIxI {
+  background-color: transparent;
+  height: 70.21%;
+  left: 8.17%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 25.97%;
+  width: 34.94%;
+}
+
+.copacombrasilmobile2-all-breakpoints .thiago-s-axTIxI {
+  background-color: transparent;
+  height: 17.35%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-axTIxI {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-Nq5FD9 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-Nq5FD9 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-axTIxI {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-DecxK4 {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .zag-DecxK4 {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .chelsea-DecxK4 {
+  background-color: transparent;
+  height: 32.33%;
+  left: -4045.26%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -16504.90%;
+  width: 59.93%;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-5-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 12.92%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-FVnPxg {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-FVnPxg {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .marquinhos-FVnPxg {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13.88%;
+  left: 8.24%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.0662686824798584px 2.0662686824798584px #00000040;
+  top: 7.23%;
+  width: 61.63%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-FVnPxg {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-5gU42O {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-5gU42O {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-FVnPxg {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-YFbAoz {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .zag-YFbAoz {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .x1024px-paris_-saint-germain_fc-1-YFbAoz {
+  background-color: transparent;
+  height: 11px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 11px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-6-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 16.15%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-TDG5Rx {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-TDG5Rx {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .e-militao-TDG5Rx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 7.5px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15.61%;
+  left: 9.81%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.0010123252868652px 2.0010123252868652px #00000040;
+  top: 5.42%;
+  width: 64.37%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-TDG5Rx {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-EcGaHW {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-EcGaHW {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-TDG5Rx {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-tTjRZi {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .real-madrid-logo-escudo-1-1-tTjRZi {
+  background-color: transparent;
+  height: 47.69%;
+  left: -4045.26%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -16506.01%;
+  width: 63.24%;
+}
+
+.copacombrasilmobile2-all-breakpoints .zag-tTjRZi {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-7-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 19.38%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-c7A8xX {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-c7A8xX {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .danilo-c7A8xX {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-c7A8xX {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-vZVK8v {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-vZVK8v {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-c7A8xX {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-joxaWS {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .lat-joxaWS {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .juventus_fc_2017_logo-1-1-joxaWS {
+  background-color: transparent;
+  height: 16px;
+  left: -679px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5146px;
+  width: 8px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-8-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 22.61%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-zMrLFm {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-zMrLFm {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .alexsandro-zMrLFm {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 7.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31.22%;
+  left: 7.07%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.0323870182037354px 2.0323870182037354px #00000040;
+  top: 6.03%;
+  width: 64.36%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-zMrLFm {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-yxx3cb {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-yxx3cb {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-zMrLFm {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-zUK0tm {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .lat-zUK0tm {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .juventus_fc_2017_logo-1-1-zUK0tm {
+  background-color: transparent;
+  height: 16px;
+  left: -679px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5146px;
+  width: 8px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-9-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 25.84%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-n6utxt {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-n6utxt {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .a-telles-n6utxt {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-n6utxt {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-26eLXN {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-26eLXN {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-n6utxt {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-O0SPrb {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .lat-O0SPrb {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .sevilla-fc-logo-png-transparent-1-O0SPrb {
+  background-color: transparent;
+  height: 13px;
+  left: -681px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5143px;
+  width: 13px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-10-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 29.07%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-xee9NN {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-xee9NN {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fred-xee9NN {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-xee9NN {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-KvxlSK {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-KvxlSK {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-xee9NN {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-xWvLe5 {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .vol-xWvLe5 {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .manchester-unitec-xWvLe5 {
+  background-color: transparent;
+  height: 14px;
+  left: -682px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 14px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-11-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 32.30%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-0iNxmm {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-0iNxmm {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .casemiro-0iNxmm {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-0iNxmm {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-7N8nbr {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-7N8nbr {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-0iNxmm {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-a53opm {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .vol-a53opm {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .manchester-unitec-a53opm {
+  background-color: transparent;
+  height: 14px;
+  left: -682px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 14px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-12-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 35.53%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-JUxbxJ {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-JUxbxJ {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fabinho-JUxbxJ {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-JUxbxJ {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-fg5oG3 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-fg5oG3 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-JUxbxJ {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-gCGaiL {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .vol-gCGaiL {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .liverpool_fc-1-gCGaiL {
+  background-color: transparent;
+  height: 14px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5145px;
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-13-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 38.76%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-qfIPdx {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-qfIPdx {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .bruno-g-qfIPdx {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-qfIPdx {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-pROp31 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-pROp31 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-qfIPdx {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-I0K097 {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .vol-I0K097 {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .newcastle_-united_-logo-1-I0K097 {
+  background-color: transparent;
+  height: 11px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5143px;
+  width: 11px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-14-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 41.99%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-tqDczm {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-tqDczm {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .paquet-tqDczm {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-tqDczm {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-zxhggE {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-zxhggE {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-tqDczm {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-GqIYEx {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .mei-GqIYEx {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .west-ham-united-1-1-GqIYEx {
+  background-color: transparent;
+  height: 11px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5143px;
+  width: 11px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-15-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 45.22%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-P0i0T6 {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-P0i0T6 {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .everton-r-P0i0T6 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 8.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17.35%;
+  left: 7.07%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.300942897796631px 2.300942897796631px #00000040;
+  top: 4.82%;
+  width: 67.86%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-P0i0T6 {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-DRU7Zx {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-DRU7Zx {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-P0i0T6 {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-cuikMy {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .mei-cuikMy {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .flamengo_braz_logo-1-cuikMy {
+  background-color: transparent;
+  height: 13px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5143px;
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-16-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 48.45%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-v7Il3x {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-v7Il3x {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .neymar-v7Il3x {
+  background-color: transparent;
+  height: 38.16%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-v7Il3x {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-jxW7FR {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-jxW7FR {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-v7Il3x {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-5HY8xA {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .x1024px-paris_-saint-germain_fc-1-5HY8xA {
+  background-color: transparent;
+  height: 11px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 11px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-5HY8xA {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-17-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 51.68%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-AbxyPv {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-AbxyPv {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .vini-jr-AbxyPv {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-AbxyPv {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-8usNbp {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-8usNbp {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-AbxyPv {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-y96mE9 {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-y96mE9 {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .real-madrid-logo-escudo-1-1-y96mE9 {
+  background-color: transparent;
+  height: 47.69%;
+  left: -4047.32%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -16508.24%;
+  width: 63.24%;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-18-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 54.91%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-FYzcAh {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-FYzcAh {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .antony-FYzcAh {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-FYzcAh {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-4pWu54 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-4pWu54 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-FYzcAh {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-yIxSlU {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-yIxSlU {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .manchester-unitec-yIxSlU {
+  background-color: transparent;
+  height: 14px;
+  left: -682px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 14px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-19-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 58.14%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-XgyvbX {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-XgyvbX {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .raphinha-XgyvbX {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-XgyvbX {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-pnDBXx {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-pnDBXx {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-XgyvbX {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-2gdb8x {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-2gdb8x {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .barcelona-1-1-2gdb8x {
+  background-color: transparent;
+  height: 10px;
+  left: -679px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-20-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 61.37%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-R1YiFM {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-R1YiFM {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .g-jesus-R1YiFM {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-R1YiFM {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-I5ptJ1 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-I5ptJ1 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-R1YiFM {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-m8HoSm {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-m8HoSm {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .arsenal_fc-1-m8HoSm {
+  background-color: transparent;
+  height: 13px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 11px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-21-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 64.60%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-Hgx5FH {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-Hgx5FH {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .richarlyson-Hgx5FH {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 6.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13.88%;
+  left: 9.81%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 1.9423972368240356px 1.9423972368240356px #00000040;
+  top: 7.83%;
+  width: 64.77%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-Hgx5FH {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-EjxanD {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-EjxanD {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-Hgx5FH {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-M1E6MK {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-M1E6MK {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .tottenham_-hotspur-1-M1E6MK {
+  background-color: transparent;
+  height: 16px;
+  left: -678px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5146px;
+  width: 8px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-22-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 67.83%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-kb1VAr {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-kb1VAr {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .rodrigo-kb1VAr {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-kb1VAr {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-Q8TrFS {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-Q8TrFS {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-kb1VAr {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-RxiUWQ {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-RxiUWQ {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .real-madrid-logo-escudo-1-1-RxiUWQ {
+  background-color: transparent;
+  height: 47.69%;
+  left: -4045.26%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -16507.13%;
+  width: 63.24%;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-23-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 71.06%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-810UYv {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-810UYv {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .firmino-810UYv {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-810UYv {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-ptZQZ5 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-ptZQZ5 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-810UYv {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-VuRsDR {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-VuRsDR {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .liverpool_fc-1-VuRsDR {
+  background-color: transparent;
+  height: 14px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5145px;
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-24-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 74.29%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-KUzkwI {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-KUzkwI {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .pedro-KUzkwI {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-KUzkwI {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-C9bI8B {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-C9bI8B {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-KUzkwI {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-PjcxMj {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-PjcxMj {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .flamengo_braz_logo-1-PjcxMj {
+  background-color: transparent;
+  height: 13px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5143px;
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-25-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 77.52%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-4L4GzV {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-4L4GzV {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .gabriel-b-4L4GzV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 8.3px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17.35%;
+  left: 7.85%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.82%;
+  width: 70.66%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-4L4GzV {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-BzR5bx {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-BzR5bx {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-4L4GzV {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-HZhU9x {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ata-HZhU9x {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .flamengo_braz_logo-1-HZhU9x {
+  background-color: transparent;
+  height: 13px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5143px;
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-26-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 80.75%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-CSBxNU {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-CSBxNU {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .coutinho-CSBxNU {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-CSBxNU {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-gaP0cN {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-gaP0cN {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-CSBxNU {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-trtxub {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .mei-trtxub {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .aston-villa-trtxub {
+  background-color: transparent;
+  height: 14px;
+  left: -679px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 10px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-27-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 83.98%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-sLKyhE {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-sLKyhE {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .bremer-sLKyhE {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-sLKyhE {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-qQx8j0 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-qQx8j0 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-sLKyhE {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-9gVfA3 {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .zag-9gVfA3 {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .juventus_fc_2017_logo-1-1-9gVfA3 {
+  background-color: transparent;
+  height: 16px;
+  left: -679px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5146px;
+  width: 8px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-28-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 87.21%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-HuSsLq {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-HuSsLq {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .ibanez-HuSsLq {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-HuSsLq {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-PhwpGU {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-PhwpGU {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-HuSsLq {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-AAFTeb {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .zag-AAFTeb {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .as_-roma_logo_2017-1-AAFTeb {
+  background-color: transparent;
+  height: 12px;
+  left: -679px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5144px;
+  width: 9px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-29-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 90.44%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-AZM1dU {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-AZM1dU {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .r-lodi-AZM1dU {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-AZM1dU {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-xVteKN {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-xVteKN {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-AZM1dU {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-PKOoIe {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .lat-PKOoIe {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .langfr-1024px-logo_-PKOoIe {
+  background-color: transparent;
+  height: 16px;
+  left: -678px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5146px;
+  width: 8px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-30-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 93.67%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-JWHDBV {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-JWHDBV {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .dani-alves-JWHDBV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 7.9px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15.61%;
+  left: 9.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.1097540855407715px 2.1097540855407715px #00000040;
+  top: 5.42%;
+  width: 60.45%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-JWHDBV {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-6u1Qb8 {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-6u1Qb8 {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-JWHDBV {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-B7pRuk {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .lat-B7pRuk {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .pumas_unam-1-B7pRuk {
+  background-color: transparent;
+  height: 10px;
+  left: -680px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5143px;
+  width: 11px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogador-31-DUyJfS {
+  background-color: transparent;
+  height: 100%;
+  left: 96.89%;
+  position: absolute;
+  top: 0px;
+  width: 3.18%;
+}
+
+.copacombrasilmobile2-all-breakpoints .fundo-1axZQF {
+  background-color: transparent;
+  height: 100%;
+  left: -770.82%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8929.46%;
+  width: 97.74%;
+}
+
+.copacombrasilmobile2-all-breakpoints .imagem-1axZQF {
+  background-color: transparent;
+  height: 64.79%;
+  left: -760.88%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -8903.19%;
+  width: 44.44%;
+}
+
+.copacombrasilmobile2-all-breakpoints .emerson-1axZQF {
+  background-color: transparent;
+  height: 19.08%;
+  left: 9.94%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 2.34264874458313px 2.34264874458313px #00000040;
+  top: 4.24%;
+  width: 59.10%;
+}
+
+.copacombrasilmobile2-all-breakpoints .check-1axZQF {
+  background-color: transparent;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 61px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-1-iRdtsC {
+  background-color: var(--white);
+  border: 0.2442873865365982px none;
+  border-radius: 8.55px;
+  box-shadow: 0px 1.9542990922927856px 1.9542990922927856px #00000040;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .ellipse-2-iRdtsC {
+  background-color: transparent;
+  border: 0.4885747730731964px solid;
+  border-color: var(--chateau-green);
+  border-radius: 7.57px;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .time-1axZQF {
+  background-color: transparent;
+  box-shadow: 0px 2.134341239929199px 2.134341239929199px #00000040;
+  height: 31px;
+  left: 62px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-2-TRksxw {
+  background-color: transparent;
+  height: 31px;
+  left: -682px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -5148px;
+  width: 15px;
+}
+
+.copacombrasilmobile2-all-breakpoints .lat-TRksxw {
+  -webkit-text-stroke: 0.42994576692581177px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .tottenham_-hotspur-1-TRksxw {
+  background-color: transparent;
+  height: 16px;
+  left: -678px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -5146px;
+  width: 8px;
+}
+
+.copacombrasilmobile2-all-breakpoints .campo-9bzmrf {
+  background-color: transparent;
+  height: 184px;
+  left: 3px;
+  position: absolute;
+  top: 140px;
+  width: 313px;
+}
+
+.copacombrasilmobile2-all-breakpoints .vuvuzelas-9bzmrf {
+  background-color: transparent;
+  height: 78px;
+  left: 0px;
+  position: absolute;
+  top: 305px;
+  width: 78px;
+}
+
+.copacombrasilmobile2-all-breakpoints .vuvuzelas-e2B08G {
+  background-color: transparent;
+  height: 78px;
+  left: 247px;
+  position: absolute;
+  top: 309px;
+  width: 73px;
+}
+
+.copacombrasilmobile2-all-breakpoints .refletor-b-9bzmrf {
+  background-color: transparent;
+  height: 269px;
+  left: calc(50.00% - 160px);
+  position: absolute;
+  top: calc(50.00% - 195px);
+  width: 245px;
+}
+
+.copacombrasilmobile2-all-breakpoints .refletor-b-e2B08G {
+  background-color: transparent;
+  height: 269px;
+  left: calc(50.00% - 84px);
+  position: absolute;
+  top: calc(50.00% - 192px);
+  width: 244px;
+}
+
+.copacombrasilmobile2-all-breakpoints .capa-mobile2-uXIObv {
+  background: linear-gradient(180deg, rgb(255, 209.00000274181366, 0) 50.867968797683716%, rgba(29.000000171363354, 175.00000476837158, 114.0000008046627, 0.6000000238418579) 100%);
+  background-color: transparent;
+  border: 1px none;
+  height: 518px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.copacombrasilmobile2-all-breakpoints .background-braso-XMrCOa {
+  background: linear-gradient(180deg, rgb(0, 158.00000578165054, 58.00000034272671) 0%, rgba(255, 209.00000274181366, 0, 0) 100%);
+  background-color: transparent;
+  border: 0.8476393222808838px solid;
+  border-color: var(--black);
+  border-radius: 110.41px/109.28px;
+  box-shadow: 0px 1.6952786445617676px 1.6952786445617676px #00000040;
+  height: 219px;
+  left: calc(50.00% - 113px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 146px);
+  width: 221px;
+}
+
+.copacombrasilmobile2-all-breakpoints .luzes-da-direita-XMrCOa {
+  background-color: transparent;
+  height: 94px;
+  left: 146px;
+  position: absolute;
+  top: 34px;
+  width: 159px;
+}
+
+.copacombrasilmobile2-all-breakpoints .luzes-da-direita-rgwg0o {
+  background-color: transparent;
+  height: 94px;
+  left: 10px;
+  position: absolute;
+  top: 34px;
+  width: 159px;
+}
+
+.copacombrasilmobile2-all-breakpoints .braso-XMrCOa {
+  background-color: transparent;
+  height: 203px;
+  left: calc(50.00% - 91px);
+  position: absolute;
+  top: calc(50.00% - 132px);
+  width: 177px;
+}
+
+.copacombrasilmobile2-all-breakpoints .estrelas-XMrCOa {
+  background-color: transparent;
+  height: 79px;
+  left: 74px;
+  position: absolute;
+  top: 76px;
+  width: 167px;
+}
+
+.copacombrasilmobile2-all-breakpoints .nome-copa-com-brasil-XMrCOa {
+  -webkit-text-stroke: 0.5425220131874084px var(--black);
+  background-color: transparent;
+  color: #009e3a;
+  font-family: var(--font-family-baloo_da_2);
+  font-size: 27.2px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 95px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% - 236px);
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .simbolo-brasil-1-XMrCOa {
+  background-color: transparent;
+  height: 52px;
+  left: calc(50.00% - 148px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 241px);
+  width: 52px;
+}
+
+.copacombrasilmobile2-all-breakpoints .simbolo-brasil-2-XMrCOa {
+  background-color: transparent;
+  height: 52px;
+  left: calc(50.00% + 94px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 241px);
+  width: 52px;
+}
+
+.copacombrasilmobile2-all-breakpoints .embarque-em-uma-jorn-XMrCOa {
+  -webkit-text-stroke: 0.4550817012786865px var(--black);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bungee_spice);
+  font-size: 10.9px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 96px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% + 93px);
+  width: 236px;
+}
+
+.copacombrasilmobile2-all-breakpoints .taa-XMrCOa {
+  background-color: transparent;
+  height: 130px;
+  left: calc(50.00% + 75px);
+  position: absolute;
+  top: calc(50.00% - 37px);
+  width: 60px;
+}
+
+.copacombrasilmobile2-all-breakpoints .presente-XMrCOa {
+  background-color: transparent;
+  height: 81px;
+  left: calc(50.00% - 121px);
+  position: absolute;
+  top: calc(50.00% + 8px);
+  width: 71px;
+}
+
+.copacombrasilmobile2-all-breakpoints .texto-brasil-XMrCOa {
+  background-color: transparent;
+  height: 49px;
+  left: calc(50.00% - 113px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% + 199px);
+  width: 235px;
+}
+
+.copacombrasilmobile2-all-breakpoints .boto-1-XMrCOa {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 95px);
+  position: absolute;
+  top: calc(50.00% + 165px);
+  width: 84px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-3-QFIsdr {
+  background-color: #029c55;
+  border: 0.803921639919281px solid;
+  border-color: var(--black);
+  border-radius: 3.22px;
+  box-shadow: 0px 1.607843279838562px 1.607843279838562px #00000040;
+  height: 22px;
+  left: calc(50.00% - 43px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 11px);
+  width: 84px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogadores-QFIsdr {
+  -webkit-text-stroke: 0.4019608199596405px var(--black);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 32px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 1.607843279838562px 1.607843279838562px #00000040;
+  top: calc(50.00% - 9px);
+  width: auto;
+}
+
+.copacombrasilmobile2-all-breakpoints .boto-2-XMrCOa {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% + 10px);
+  position: absolute;
+  top: calc(50.00% + 165px);
+  width: 84px;
+}
+
+.copacombrasilmobile2-all-breakpoints .rectangle-3-bHKDNK {
+  background-color: #029c55;
+  border: 0.8039215803146362px solid;
+  border-color: var(--black);
+  border-radius: 3.22px;
+  box-shadow: 0px 1.6078431606292725px 1.6078431606292725px #00000040;
+  height: 22px;
+  left: calc(50.00% - 43px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 11px);
+  width: 84px;
+}
+
+.copacombrasilmobile2-all-breakpoints .jogos-bHKDNK {
+  -webkit-text-stroke: 0.4019607901573181px var(--black);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 19px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 1.6078431606292725px 1.6078431606292725px #00000040;
+  top: calc(50.00% - 9px);
+  width: auto;
+}
+@media screen and (max-width: 1283px) {
+  .screen.copacombrasil { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1284px) {
+  .screen.copacombrasilmobile2-all-breakpoints { 
+    display: none;
+   }
+}
