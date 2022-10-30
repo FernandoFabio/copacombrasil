@@ -1,51 +1,26 @@
 :root { 
-  --alabaster: #fafafa;
   --black: #000000;
-  --cerulean: #049dd9;
   --chateau-green: #36b84b;
-  --endeavour: #055fa9;
   --fern: #53ae6c;
-  --log-cabin: #212121;
-  --malachite: #4b8f8c;
-  --mine-shaft: #333333;
-  --mirage: #13152a;
-  --orient: #025e82;
-  --orient-2: #026385;
-  --sky-blue: #82dafd29;
-  --steel-blue: #037faf;
-  --stratos: #00072e;
-  --tower-gray: #aabcb6;
-  --viking: #68c4e8;
   --white: #ffffff;
-  --wild-sand: #f3f4f7;
  
-  --font-size-l: 14px;
-  --font-size-m: 12px;
-  --font-size-xl: 16px;
-  --font-size-xxl: 20px;
-  --font-size-xxxl: 24px;
-  --font-size-xxxxl: 28px;
-  --font-size-xxxxxl: 32px;
+  --font-size-l: 24px;
+  --font-size-m: 13px;
+  --font-size-s: 10.9px;
+  --font-size-xl: 24.6px;
+  --font-size-xs: 8.8px;
+  --font-size-xxl: 27.1px;
+  --font-size-xxs: 4.2px;
  
   --font-family-baloo-regular: "Baloo-Regular", Helvetica;
   --font-family-baloo_da_2: "Baloo Da 2", Helvetica;
   --font-family-bungee: "Bungee", Helvetica;
   --font-family-bungee_spice: "Bungee Spice", Helvetica;
-  --font-family-gloriant-regular: "Gloriant-Regular", Helvetica;
-  --font-family-inter-bold: "Inter-Bold", Helvetica;
-  --font-family-inter-extrabold: "Inter-ExtraBold", Helvetica;
-  --font-family-inter-medium: "Inter-Medium", Helvetica;
-  --font-family-inter-regular: "Inter-Regular", Helvetica;
-  --font-family-lato-bold: "Lato-Bold", Helvetica;
-  --font-family-lato-medium: "Lato-Medium", Helvetica;
-  --font-family-segoe_print-regular: "Segoe Print-Regular", Helvetica;
-  --font-family-segoe_script-regular: "Segoe Script-Regular", Helvetica;
-  --font-family-undefined-regular: "undefined-Regular", Helvetica;
 }
 .bungeespice-normal-fern-13px {
   color: var(--fern);
   font-family: var(--font-family-bungee_spice);
-  font-size: 13px;
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -53,15 +28,7 @@
 .bungeespice-normal-fern-4-2px {
   color: var(--fern);
   font-family: var(--font-family-bungee_spice);
-  font-size: 4.2px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-regular-normal-log-cabin-20px {
-  color: var(--log-cabin);
-  font-family: var(--font-family-inter-regular);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 400;
 }
@@ -69,7 +36,7 @@
 .bungeespice-normal-white-27-1px {
   color: var(--white);
   font-family: var(--font-family-bungee_spice);
-  font-size: 27.1px;
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -77,119 +44,15 @@
 .bungeespice-normal-white-8-8px {
   color: var(--white);
   font-family: var(--font-family-bungee_spice);
-  font-size: 8.8px;
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 400;
-}
-
-.inter-medium-white-20px {
-  color: var(--white);
-  font-family: var(--font-family-inter-medium);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.inter-medium-white-12-1px {
-  color: var(--white);
-  font-family: var(--font-family-inter-medium);
-  font-size: 12.1px;
-  font-style: normal;
-  font-weight: 500;
-}
-
-.inter-regular-normal-white-24px {
-  color: var(--white);
-  font-family: var(--font-family-inter-regular);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-bold-white-24px {
-  color: var(--white);
-  font-family: var(--font-family-inter-bold);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.inter-regular-normal-mirage-12px {
-  color: var(--mirage);
-  font-family: var(--font-family-inter-regular);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-regular-normal-log-cabin-12px {
-  color: var(--log-cabin);
-  font-family: var(--font-family-inter-regular);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-medium-mirage-20px {
-  color: var(--mirage);
-  font-family: var(--font-family-inter-medium);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.inter-extra-extra-bold-white-12px {
-  color: var(--white);
-  font-family: var(--font-family-inter-extrabold);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.lato-medium-white-16px {
-  color: var(--white);
-  font-family: var(--font-family-lato-medium);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.inter-medium-log-cabin-32px {
-  color: var(--log-cabin);
-  font-family: var(--font-family-inter-medium);
-  font-size: var(--font-size-xxxxxl);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.inter-extra-extra-bold-white-22px {
-  color: var(--white);
-  font-family: var(--font-family-inter-extrabold);
-  font-size: 22px;
-  font-style: normal;
-  font-weight: 800;
-}
-
-.inter-bold-white-10-1px {
-  color: var(--white);
-  font-family: var(--font-family-inter-bold);
-  font-size: 10.1px;
-  font-style: normal;
-  font-weight: 700;
-}
-
-.inter-bold-log-cabin-20px {
-  color: var(--log-cabin);
-  font-family: var(--font-family-inter-bold);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
 }
 
 .bungeespice-normal-white-24-6px {
   color: var(--white);
   font-family: var(--font-family-bungee_spice);
-  font-size: 24.6px;
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
@@ -200,110 +63,6 @@
   font-size: 8px;
   font-style: normal;
   font-weight: 400;
-}
-
-.lato-bold-white-16px {
-  color: var(--white);
-  font-family: var(--font-family-lato-bold);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.inter-regular-normal-log-cabin-16px {
-  color: var(--log-cabin);
-  font-family: var(--font-family-inter-regular);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-medium-white-16px {
-  color: var(--white);
-  font-family: var(--font-family-inter-medium);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.inter-regular-normal-wild-sand-12px {
-  color: var(--wild-sand);
-  font-family: var(--font-family-inter-regular);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-bold-cerulean-12px {
-  color: var(--cerulean);
-  font-family: var(--font-family-inter-bold);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.segoescript-regular-normal-viking-12px {
-  color: var(--viking);
-  font-family: var(--font-family-segoe_script-regular);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.segoeprint-regular-normal-black-18px {
-  color: var(--black);
-  font-family: var(--font-family-segoe_print-regular);
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.gloriant-regular-normal-white-64px {
-  color: var(--white);
-  font-family: var(--font-family-gloriant-regular);
-  font-size: 64px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.gloriant-regular-normal-white-80px {
-  color: var(--white);
-  font-family: var(--font-family-gloriant-regular);
-  font-size: 80px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.segoeprint-regular-normal-black-48px {
-  color: var(--black);
-  font-family: var(--font-family-segoe_print-regular);
-  font-size: 48px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.segoescript-regular-normal-viking-28px {
-  color: var(--viking);
-  font-family: var(--font-family-segoe_script-regular);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-regular-normal-white-20px {
-  color: var(--white);
-  font-family: var(--font-family-inter-regular);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.inter-bold-cerulean-24px {
-  color: var(--cerulean);
-  font-family: var(--font-family-inter-bold);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 700;
 }
 
 :root {
